@@ -1,0 +1,3 @@
+C:/Users/Матвей/Desktop/Movesem4/Laba4/build/CMakeFiles/Laba4.dir
+C:/Users/Матвей/Desktop/Movesem4/Laba4/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Матвей/Desktop/Movesem4/Laba4/build/CMakeFiles/ZERO_CHECK.dir
