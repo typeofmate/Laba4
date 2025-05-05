@@ -320,7 +320,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\Матвей\Desktop\Movesem4\Laba4\MySwap.cpp" />
+    <ClCompile Include="C:\Users\Матвей\Desktop\Movesem4\Laba4\MyArray.cpp" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
